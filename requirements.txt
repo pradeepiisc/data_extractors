@@ -1,0 +1,10 @@
+PyPDF2
+pdfminer
+tabula-py
+tabulate
+fitz
+pymupdf
+pillow
+ghostscript
+camelot-py
+opencv-python==4.5.5.64
